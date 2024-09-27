@@ -1,0 +1,7 @@
+# ninja log v6
+4	812	7489983258034713	build.ninja	37e59189dc26ce15
+6	6190	7488896851545093	CMakeFiles/pract_qr_codes.dir/main.cpp.obj	79ee193ee82176c0
+12	87	7488870292188297	pract_qr_codes.exe	f7fef65546dd1f4b
+15	934	7488877593757778	CMakeFiles/pract_qr_codes.dir/auth.cpp.obj	234e5f21e3df6013
+6	676	7488891661893978	CMakeFiles/pract_qr_codes.dir/dp.cpp.obj	16b4abf03cda317b
+10	17	7488877591868328	clean	567f01a6bad3308b

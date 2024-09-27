@@ -1,0 +1,3 @@
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/CMakeFiles/pract_qr_codes.dir
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

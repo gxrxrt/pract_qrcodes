@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Authentication</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js"></script> <!-- Подключаем библиотеку для QR-кода -->
+</head>
+<body>
+<div class="container">
+    <h1>Welcome to the Authorization Page</h1>
+    <form id="authForm">
+        <label for="userId">Enter your unique ID:</label>
+        <input type="text" id="userId" name="userId" required>
+        <button type="submit">Authorize</button>
+    </form>
+    <div id="result"></div> <!-- Блок для вывода результатов -->
+    <button id="generateQR">Generate QR Code</button>
+    <div id="qrcode"></div> <!-- Контейнер для QR-кода -->
+</div>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+# ninja log v6
+2	43	7488877091810665	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-mkdir	6cc02870900e7da5
+43	5023	7488877141601608	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-download	c9975a7dd5758640
+2	43	7488877091810665	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-mkdir	6cc02870900e7da5
+43	5023	7488877141601608	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-download	c9975a7dd5758640
+275	324	7488877589703248	CMakeFiles/httplib-populate-complete	849763ab5bb78ba4
+7	100	7488877586570093	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update	2ce3efa8a27515d2
+101	137	7488877587827337	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch	27d13b6ef1827dd
+101	137	7488877587827337	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch	27d13b6ef1827dd
+7	100	7488877586570093	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update	2ce3efa8a27515d2
+275	324	7488877589703248	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/CMakeFiles/httplib-populate-complete	849763ab5bb78ba4
+137	171	7488877588176789	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure	cc5af4bc3b7c2b54
+137	171	7488877588176789	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure	cc5af4bc3b7c2b54
+172	206	7488877588515857	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build	454c96054612d6b0
+172	206	7488877588515857	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build	454c96054612d6b0
+206	240	7488877588858348	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install	aaad5297fb6a9b08
+206	240	7488877588858348	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install	aaad5297fb6a9b08
+240	274	7488877589207878	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test	8b49da654770dd02
+240	274	7488877589207878	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test	8b49da654770dd02
+275	324	7488877589703248	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-done	849763ab5bb78ba4
+275	324	7488877589703248	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-done	849763ab5bb78ba4
+7	95	7488890801904762	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update	2ce3efa8a27515d2
+7	95	7488890801904762	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update	2ce3efa8a27515d2
+95	131	7488890803113247	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch	27d13b6ef1827dd
+95	131	7488890803113247	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch	27d13b6ef1827dd
+131	166	7488890803462167	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure	cc5af4bc3b7c2b54
+131	166	7488890803462167	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure	cc5af4bc3b7c2b54
+166	207	7488890803862094	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build	454c96054612d6b0
+166	207	7488890803862094	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build	454c96054612d6b0
+207	245	7488890804243255	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install	aaad5297fb6a9b08
+207	245	7488890804243255	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install	aaad5297fb6a9b08
+245	281	7488890804600897	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test	8b49da654770dd02
+245	281	7488890804600897	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test	8b49da654770dd02
+281	332	7488890805115224	CMakeFiles/httplib-populate-complete	849763ab5bb78ba4
+281	332	7488890805115224	httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-done	849763ab5bb78ba4
+281	332	7488890805115224	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/CMakeFiles/httplib-populate-complete	849763ab5bb78ba4
+281	332	7488890805115224	C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-done	849763ab5bb78ba4

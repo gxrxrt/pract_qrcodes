@@ -1,0 +1,3 @@
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/CMakeFiles/httplib-populate.dir
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/garar/Desktop/cpp development/pract_qr_codes/cmake-build-debug/_deps/httplib-subbuild/CMakeFiles/rebuild_cache.dir
